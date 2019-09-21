@@ -1,0 +1,252 @@
+Slaughter Doll|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c001_0.jpg
+Slaughter Doll|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c002_0.jpg
+Slaughter Doll|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c003_0.jpg
+Slaughter Doll|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c004_0.jpg
+Slaughter Doll|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c005_0.jpg
+Slaughter Doll|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c006_0.jpg
+Slaughter Doll|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c007_0.jpg
+Slaughter Doll|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c008_0.jpg
+Slaughter Doll|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0027_c009_0.jpg
+DOLLS|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c001_0.jpg
+DOLLS|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c002_0.jpg
+DOLLS|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c003_0.jpg
+DOLLS|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c004_0.jpg
+DOLLS|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c005_0.jpg
+DOLLS|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c006_0.jpg
+DOLLS|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c007_0.jpg
+DOLLS|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c008_0.jpg
+DOLLS|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0026_c009_0.jpg
+Swimsuit[2017]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c001_0.jpg
+Swimsuit[2017]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c002_0.jpg
+Swimsuit[2017]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c003_0.jpg
+Swimsuit[2017]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c004_0.jpg
+Swimsuit[2017]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c005_0.jpg
+Swimsuit[2017]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c006_0.jpg
+Swimsuit[2017]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c007_0.jpg
+Swimsuit[2017]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c008_0.jpg
+Swimsuit[2017]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0047_c009_0.jpg
+Yukata[2017]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c001_0.jpg
+Yukata[2017]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c002_0.jpg
+Yukata[2017]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c003_0.jpg
+Yukata[2017]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c004_0.jpg
+Yukata[2017]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c005_0.jpg
+Yukata[2017]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c006_0.jpg
+Yukata[2017]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c007_0.jpg
+Yukata[2017]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c008_0.jpg
+Yukata[2017]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0055_c009_0.jpg
+Annihilation Calvary|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c001_0.jpg
+Annihilation Calvary|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c002_0.jpg
+Annihilation Calvary|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c003_0.jpg
+Annihilation Calvary|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c004_0.jpg
+Annihilation Calvary|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c005_0.jpg
+Annihilation Calvary|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c006_0.jpg
+Annihilation Calvary|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c007_0.jpg
+Annihilation Calvary|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c008_0.jpg
+Annihilation Calvary|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0062_c009_0.jpg
+Pumpkin Witch|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c001_0.jpg
+Pumpkin Witch|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c002_0.jpg
+Pumpkin Witch|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c003_0.jpg
+Pumpkin Witch|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c004_0.jpg
+Pumpkin Witch|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c005_0.jpg
+Pumpkin Witch|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c006_0.jpg
+Pumpkin Witch|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c007_0.jpg
+Pumpkin Witch|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c008_0.jpg
+Pumpkin Witch|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0005_c009_0.jpg
+Santa[2017]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c001_0.jpg
+Santa[2017]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c002_0.jpg
+Santa[2017]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c003_0.jpg
+Santa[2017]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c004_0.jpg
+Santa[2017]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c005_0.jpg
+Santa[2017]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c006_0.jpg
+Santa[2017]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c007_0.jpg
+Santa[2017]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c008_0.jpg
+Santa[2017]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0018_c009_0.jpg
+Awakening Doll|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c001_0.jpg
+Awakening Doll|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c002_0.jpg
+Awakening Doll|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c003_0.jpg
+Awakening Doll|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c004_0.jpg
+Awakening Doll|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c005_0.jpg
+Awakening Doll|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c006_0.jpg
+Awakening Doll|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c007_0.jpg
+Awakening Doll|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c008_0.jpg
+Awakening Doll|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0068_c009_0.jpg
+Formal Wear[2018]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c001_0.jpg
+Formal Wear|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c002_0.jpg
+Formal Wear|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c003_0.jpg
+Formal Wear|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c004_0.jpg
+Formal Wear|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c005_0.jpg
+Formal Wear|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c006_0.jpg
+Formal Wear|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c007_0.jpg
+Formal Wear|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c008_0.jpg
+Formal Wear|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0011_c009_0.jpg
+Madoka Kaname|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0074_c001_0.jpg
+Madoka Kaname|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0074_c005_0.jpg
+Madoka Kaname|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0074_c007_0.jpg
+Homura Akemi|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0075_c002_0.jpg
+Homura Akemi|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0075_c006_0.jpg
+Homura Akemi|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0075_c008_0.jpg
+Mami Tomoe|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0076_c003_0.jpg
+Mami Tomoe|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0076_c004_0.jpg
+Mami Tomoe|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0076_c009_0.jpg
+Hinamatsuri|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c001_0.jpg
+Hinamatsuri|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c002_0.jpg
+Hinamatsuri|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c003_0.jpg
+Hinamatsuri|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c004_0.jpg
+Hinamatsuri|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c005_0.jpg
+Hinamatsuri|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c006_0.jpg
+Hinamatsuri|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c007_0.jpg
+Hinamatsuri|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c008_0.jpg
+Hinamatsuri|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0046_c009_0.jpg
+Race Queen|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c001_0.jpg
+Race Queen|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c002_0.jpg
+Race Queen|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c003_0.jpg
+Race Queen|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c004_0.jpg
+Race Queen|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c005_0.jpg
+Race Queen|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c006_0.jpg
+Race Queen|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c007_0.jpg
+Race Queen|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c008_0.jpg
+Race Queen|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0083_c009_0.jpg
+Cheerleader|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c001_0.jpg
+Cheerleader|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c002_0.jpg
+Cheerleader|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c003_0.jpg
+Cheerleader|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c004_0.jpg
+Cheerleader|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c005_0.jpg
+Cheerleader|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c006_0.jpg
+Cheerleader|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c007_0.jpg
+Cheerleader|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c008_0.jpg
+Cheerleader|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0085_c009_0.jpg
+JuneBride|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c001_0.jpg
+JuneBride|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c002_0.jpg
+JuneBride|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c003_0.jpg
+JuneBride|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c004_0.jpg
+JuneBride|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c005_0.jpg
+JuneBride|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c006_0.jpg
+JuneBride|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c007_0.jpg
+JuneBride|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c008_0.jpg
+JuneBride|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0093_c009_0.jpg
+Swimsuit[2018]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c001_0.jpg
+Swimsuit[2018]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c002_0.jpg
+Swimsuit[2018]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c003_0.jpg
+Swimsuit[2018]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c004_0.jpg
+Swimsuit[2018]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c005_0.jpg
+Swimsuit[2018]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c006_0.jpg
+Swimsuit[2018]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c007_0.jpg
+Swimsuit[2018]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c008_0.jpg
+Swimsuit[2018]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0094_c009_0.jpg
+ShinyFeather|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c001_0.jpg
+ShinyFeather|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c002_0.jpg
+ShinyFeather|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c003_0.jpg
+ShinyFeather|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c004_0.jpg
+ShinyFeather|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c005_0.jpg
+ShinyFeather|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c006_0.jpg
+ShinyFeather|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c007_0.jpg
+ShinyFeather|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c008_0.jpg
+ShinyFeather|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0097_c009_0.jpg
+Hot Sand's Dancer|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c001_0.jpg
+Hot Sand's Dancer|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c002_0.jpg
+Hot Sand's Dancer|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c003_0.jpg
+Hot Sand's Dancer|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c004_0.jpg
+Hot Sand's Dancer|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c005_0.jpg
+Hot Sand's Dancer|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c006_0.jpg
+Hot Sand's Dancer|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c007_0.jpg
+Hot Sand's Dancer|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c008_0.jpg
+Hot Sand's Dancer|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0099_c009_0.jpg
+Execution Doll|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c001_0.jpg
+Execution Doll|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c002_0.jpg
+Execution Doll|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c003_0.jpg
+Execution Doll|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c004_0.jpg
+Execution Doll|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c005_0.jpg
+Execution Doll|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c006_0.jpg
+Execution Doll|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c007_0.jpg
+Execution Doll|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c008_0.jpg
+Execution Doll|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0100_c009_0.jpg
+Secret Autumn Onsen|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c001_0.jpg
+Secret Autumn Onsen|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c002_0.jpg
+Secret Autumn Onsen|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c003_0.jpg
+Secret Autumn Onsen|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c004_0.jpg
+Secret Autumn Onsen|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c005_0.jpg
+Secret Autumn Onsen|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c006_0.jpg
+Secret Autumn Onsen|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c007_0.jpg
+Secret Autumn Onsen|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c008_0.jpg
+Secret Autumn Onsen|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0101_c009_0.jpg
+Santa[2018]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c001_0.jpg
+Santa[2018]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c002_0.jpg
+Santa[2018]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c003_0.jpg
+Santa[2018]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c004_0.jpg
+Santa[2018]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c005_0.jpg
+Santa[2018]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c006_0.jpg
+Santa[2018]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c007_0.jpg
+Santa[2018]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c008_0.jpg
+Santa[2018]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0103_c009_0.jpg
+NewYear[2019]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c001_0.jpg
+NewYear[2019]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c002_0.jpg
+NewYear[2019]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c003_0.jpg
+NewYear[2019]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c004_0.jpg
+NewYear[2019]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c005_0.jpg
+NewYear[2019]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c006_0.jpg
+NewYear[2019]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c007_0.jpg
+NewYear[2019]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c008_0.jpg
+NewYear[2019]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0105_c009_0.jpg
+SweetxSweet|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c001_0.jpg
+SweetxSweet|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c002_0.jpg
+SweetxSweet|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c003_0.jpg
+SweetxSweet|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c004_0.jpg
+SweetxSweet|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c005_0.jpg
+SweetxSweet|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c006_0.jpg
+SweetxSweet|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c007_0.jpg
+SweetxSweet|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c008_0.jpg
+SweetxSweet|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0107_c009_0.jpg
+FleursBlanches|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c001_0.jpg
+FleursBlanches|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c002_0.jpg
+FleursBlanches|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c003_0.jpg
+FleursBlanches|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c004_0.jpg
+FleursBlanches|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c005_0.jpg
+FleursBlanches|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c006_0.jpg
+FleursBlanches|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c007_0.jpg
+FleursBlanches|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c008_0.jpg
+FleursBlanches|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0112_c009_0.jpg
+WonderMaze|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c001_0.jpg
+WonderMaze|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c002_0.jpg
+WonderMaze|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c003_0.jpg
+WonderMaze|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c004_0.jpg
+WonderMaze|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c005_0.jpg
+WonderMaze|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c006_0.jpg
+WonderMaze|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c007_0.jpg
+WonderMaze|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c008_0.jpg
+WonderMaze|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0114_c009_0.jpg
+Valkyrie[Hrist]|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR6002_c003_0.jpg
+Valkyrie[Hrist]|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR6002_c007_0.jpg
+Valkyrie[Hrist]|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR6002_c008_0.jpg
+Valkyire[Lenneth]|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR6003_c002_0.jpg
+Valkyire[Lenneth]|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR6003_c004_0.jpg
+Valkyire[Lenneth]|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR6003_c009_0.jpg
+Valikyrie[Silmeria]|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR6004_c001_0.jpg
+Valikyrie[Silmeria]|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR6004_c005_0.jpg
+Valikyrie[Silmeria]|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR6004_c006_0.jpg
+Rikka Takarada|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c001_0.jpg
+Rikka Takarada|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c002_0.jpg
+Rikka Takarada|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c003_0.jpg
+Rikka Takarada|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c004_0.jpg
+Rikka Takarada|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c005_0.jpg
+Rikka Takarada|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c006_0.jpg
+Rikka Takarada|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c007_0.jpg
+Rikka Takarada|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c008_0.jpg
+Rikka Takarada|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR6007_c009_0.jpg
+Gear of Fate|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c001_0.jpg
+Gear of Fate|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c002_0.jpg
+Gear of Fate|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c003_0.jpg
+Gear of Fate|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c004_0.jpg
+Gear of Fate|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c005_0.jpg
+Gear of Fate|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c006_0.jpg
+Gear of Fate|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c007_0.jpg
+Gear of Fate|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c008_0.jpg
+Gear of Fate|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0063_c009_0.jpg
+Atonement Doll|Sakura|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c001_0.jpg
+Atonement Doll|Misaki|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c002_0.jpg
+Atonement Doll|Shiori|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c003_0.jpg
+Atonement Doll|Reina|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c004_0.jpg
+Atonement Doll|Hiyo|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c005_0.jpg
+Atonement Doll|Nanami|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c006_0.jpg
+Atonement Doll|Aya|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c007_0.jpg
+Atonement Doll|Yuki|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c008_0.jpg
+Atonement Doll|Yamada|https://tokyodolls.g.boom-app.com/img/cards/CR0119_c009_0.jpg
